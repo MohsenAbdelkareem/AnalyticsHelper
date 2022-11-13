@@ -15,6 +15,6 @@ class AnalyticsRepository(
     }
 
     fun sendUserProperty(){
-        
+
     }
 }
