@@ -13,4 +13,8 @@ class AnalyticsRepository(
         firebaseAnalyticsDummy.sendEvent(eventName, event)
         facebookAnalyticsDummy.sendEvent(eventName, event)
     }
+
+    fun sendUserProperty(){
+        
+    }
 }
